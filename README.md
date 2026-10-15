@@ -128,6 +128,9 @@ Development of a wireless motion-tracking prototype using a Nordic nRF52 microco
 
 **Technical Focus:** Nordic nRF52 · Embedded C · IMU · BLE · JTAG
 
+**[View My MotoCube_Manual (PDF)](MotoCube_Manual.pdf)**
+
+*Note: This file was created as a project report, but also for a course for students to set up and use the system.*
 ---
 
 ## Engineering Approach
