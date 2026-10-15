@@ -17,7 +17,7 @@ My work includes PCB development, microcontroller-based systems, sensor integrat
 
 This repository highlights selected projects, my technical contributions, and the practical engineering work involved.
 
-**[View My Engineering Project Portfolio (PDF)](Projects Portfolio.pdf)**
+**[View My Engineering Project Portfolio (PDF)](Projects-Portfolio.pdf)**
 
 ---
 
@@ -31,7 +31,7 @@ This repository highlights selected projects, my technical contributions, and th
 | Electronics | PCB Design, Altium Designer, Analog & Digital Electronics |
 | Testing & Debugging | Oscilloscopes, Logic Analyzers, Multimeters, JTAG/SWD |
 | Development | Hardware Bring-Up, Prototyping, Integration, Validation |
-| Tools | Git, CMake, Linux Command Line |
+| Tools | Git, CMake |
 
 ---
 
