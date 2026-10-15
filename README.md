@@ -73,5 +73,5 @@ Engineering_Project_Portfolio.pdf
 
 Contact
 
-Email: j.jaayshwaanth@gmail.com
+Email: j.jaayshwaanth@gmail.com | Phone: +45 52658072 | 
 Location: Denmark
