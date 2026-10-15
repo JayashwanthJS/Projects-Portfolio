@@ -18,6 +18,7 @@ My work includes PCB development, microcontroller-based systems, sensor integrat
 This repository highlights selected projects, my technical contributions, and the practical engineering work involved.
 
 **[View My Engineering Project Portfolio (PDF)](Projects-Portfolio.pdf)**
+
 *Note: Some projects were completed within university research groups or companies. This repository presents selected project information and photographs rather than proprietary source code or confidential design files.*
 
 
