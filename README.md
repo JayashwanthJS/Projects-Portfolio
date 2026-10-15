@@ -1,77 +1,161 @@
-# Engineering Project Portfolio  
-Jayashwanth Jeganathan Subhashini | 
-M.Sc. Electrical Engineering | Technical University of Denmark 
+# Engineering Project Portfolio
 
+### Jayashwanth Jeganathan Subhashini
+**Embedded Systems | Electronics Development | IoT | Hardware Testing**
 
-I am an electrical and embedded systems engineer with hands-on experience in electronic hardware development, embedded systems, IoT, system integration, testing, and troubleshooting.
+M.Sc. Electrical Engineering — Technical University of Denmark (DTU)
 
-This repository showcases selected engineering projects from my research and development experience.
+---
 
-Selected Projects
+## About This Portfolio
 
-1. High-Intensity Solar Simulator | DTU Physics
+Welcome to my engineering project portfolio.
 
-Developed a high-intensity LED solar simulator as part of an ERC-funded research project.
+I am an electrical engineer with hands-on experience developing, integrating, testing, and troubleshooting embedded and electronic systems in research and development environments.
 
-My contributions:
+My work includes PCB development, microcontroller-based systems, sensor integration, IoT connectivity, electrical control systems, hardware prototyping, and experimental testing.
 
-Electrical system design, PCB development, and hardware integration.
+This repository highlights selected projects, my technical contributions, and the practical engineering work involved.
 
-Integration of power supplies and commercial Zencontrol lighting control hardware.
+**[View My Engineering Project Portfolio (PDF)](Engineering_Project_Portfolio.pdf)**
 
-Assembly, wiring, troubleshooting, and commissioning.
+---
 
-Electrical, thermal, optical-power, and spectral testing.
+## Technical Areas
 
-Technical documentation and system validation.
+| Area | Technologies & Experience |
+|---|---|
+| Embedded Systems | ESP32, STM32, Arduino, Raspberry Pi, Nordic nRF52 |
+| Programming | C, C++, Python, MATLAB |
+| IoT & Communication | MQTT, AMQP, Azure IoT, BLE, I²C, SPI, UART |
+| Electronics | PCB Design, Altium Designer, Analog & Digital Electronics |
+| Testing & Debugging | Oscilloscopes, Logic Analyzers, Multimeters, JTAG/SWD |
+| Development | Hardware Bring-Up, Prototyping, Integration, Validation |
+| Tools | Git, CMake, Linux Command Line |
 
-Outcome: Developed a system delivering approximately 60 times natural sunlight intensity at lower cost than a commercially available alternative.
+---
 
-2. Environmental Monitoring System | LEDiBond
+## Selected Engineering Projects
 
-Developed an embedded sensor-monitoring system using ESP32 and Raspberry Pi.
+### 01 | High-Intensity Solar Simulator
 
-My contributions:
+**DTU Physics | Research Assistant – System Development**
 
-Embedded C firmware and Python development.
+**Project Overview**
 
-Integration of environmental sensors and data acquisition.
+Development of a high-intensity LED solar simulator for experimental research in luminescence dating, as part of a DKK 1 million ERC-funded research project.
 
-MQTT communication and Azure IoT connectivity.
+**My Contributions**
 
-Python scripts executed through the Raspberry Pi Linux terminal.
+- Led electrical and system development from initial design through commissioning and validation.
+- Designed PCBs and integrated electronic hardware, power supplies, sensors, and commercial control equipment.
+- Selected, configured, and integrated Zencontrol IoT lighting control hardware.
+- Built and wired electrical and control enclosures.
+- Developed experimental setups for electrical, thermal, optical-power, and spectral measurements.
+- Performed hardware troubleshooting, system integration, functional testing, and validation.
+- Prepared schematics, test procedures, and technical documentation.
 
-Sensor calibration, hardware debugging, and validation.
+**Outcome**
 
-Technologies: ESP32, Raspberry Pi, C, Python, MQTT, Azure IoT.
+Developed a solar simulator producing approximately **60× the intensity of natural sunlight**, at lower cost than a commercially available alternative.
 
-3. Growbot Embedded Systems | DTU Electro
+**Technical Focus:** PCB Design · Power & Control Integration · Hardware Testing · Instrumentation · Troubleshooting
 
-Developed, assembled, tested, and delivered 25 educational embedded systems.
+---
 
-My contributions:
+### 02 | Environmental Monitoring & IoT System
 
-Arduino and Raspberry Pi integration.
+**LED iBond A/S | Master's Thesis & Embedded Systems Development**
 
-Sensor, actuator, and electronic hardware assembly.
+**Project Overview**
 
-PCB assembly, soldering, and wiring.
+Development of an ESP32- and Raspberry Pi-based environmental monitoring system for collecting and communicating sensor measurements in horticultural applications.
 
-Hardware bring-up, troubleshooting, and functional testing.
+**My Contributions**
 
-4. MOTO Cube | Embedded Systems Project
+- Developed embedded firmware in C and software in Python.
+- Integrated environmental sensors for CO₂, temperature, humidity, light, and soil-moisture measurements.
+- Implemented MQTT communication between embedded devices.
+- Developed and ran Python scripts on a Linux-based Raspberry Pi to connect to Azure IoT.
+- Performed sensor calibration, data validation, hardware testing, and communication debugging.
+- Improved the prototype through iterative testing and troubleshooting.
 
-Developed a Nordic nRF52-based motion-tracking system integrating an IMU sensor and Bluetooth Low Energy communication.
+**Technical Focus:** ESP32 · Raspberry Pi · C · Python · Linux · MQTT · Azure IoT · Sensors
 
-Technologies: Nordic nRF52, Embedded C, BLE, IMU, JTAG.
+---
 
-Project Portfolio
+### 03 | Growbot Embedded Systems
 
-For project photographs, technical details, and development outcomes, see the PDF included in this repository:
+**DTU Electro – Centre for Playware | R&D Student Assistant**
 
-Engineering_Project_Portfolio.pdf
+**Project Overview**
 
-Contact
+Development and delivery of educational embedded systems that allow students to explore plant growth through programmable electronics.
 
-Email: j.jaayshwaanth@gmail.com | Phone: +45 52658072 | 
-Location: Denmark
+**My Contributions**
+
+- Developed, assembled, tested, and delivered **25 embedded systems**.
+- Integrated Raspberry Pi and Arduino platforms with sensors, actuators, lighting, and environmental controls.
+- Performed PCB assembly, soldering, wiring, and hardware bring-up.
+- Investigated hardware faults and performed functional testing.
+- Supported system improvements through repeated testing and validation.
+- Collaborated with researchers, engineers, and an external development partner.
+
+**Outcome**
+
+Delivered 25 functional embedded systems for educational use.
+
+**Technical Focus:** Raspberry Pi · Arduino · PCB Assembly · Sensors & Actuators · Hardware Debugging · Functional Testing
+
+---
+
+### 04 | MOTO Cube — BLE Motion Tracking
+
+**Embedded Systems Project**
+
+**Project Overview**
+
+Development of a wireless motion-tracking prototype using a Nordic nRF52 microcontroller and an inertial measurement unit (IMU).
+
+**My Contributions**
+
+- Integrated an IMU sensor with Nordic nRF52 hardware.
+- Worked on embedded C firmware and Bluetooth Low Energy communication.
+- Performed hardware–software integration, JTAG debugging, and functional testing.
+
+**Technical Focus:** Nordic nRF52 · Embedded C · IMU · BLE · JTAG
+
+---
+
+## Engineering Approach
+
+Across these projects, my work has involved:
+
+1. Understanding system requirements and component specifications.
+2. Selecting and integrating suitable electronic hardware.
+3. Developing and assembling prototypes.
+4. Bringing up hardware and integrating firmware or control systems.
+5. Testing system functionality using laboratory equipment.
+6. Investigating faults and validating improvements.
+7. Documenting technical work and test results.
+
+---
+
+## Portfolio & Project Photographs
+
+The accompanying PDF contains photographs of the actual hardware, development setups, assembled systems, and selected test results.
+
+**[Open the Full Project Portfolio](Engineering_Project_Portfolio.pdf)**
+
+*Note: Some projects were completed within university research groups or companies. This repository presents selected project information and photographs rather than proprietary source code or confidential design files.*
+
+---
+
+## Contact
+
+**Jayashwanth Jeganathan Subhashini**
+
+Copenhagen, Denmark  
+Email: j.jaayshwaanth@gmail.com
+
+**Areas of Interest:** Embedded Systems Engineering · Electronics R&D · Hardware Testing · IoT Devices · Embedded Operations
