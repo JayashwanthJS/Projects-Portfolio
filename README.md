@@ -1,6 +1,6 @@
 # Engineering Project Portfolio
-ayashwanth Jeganathan Subhashini
-M.Sc. Electrical Engineering | Technical University of Denmark
+# Jayashwanth Jeganathan Subhashini
+# M.Sc. Electrical Engineering | Technical University of Denmark
 
 Engineering Project Portfolio
 
