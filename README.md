@@ -21,7 +21,6 @@ This repository highlights selected projects, my technical contributions, and th
 
 *Note: Some projects were completed within university research groups or companies. This repository presents selected project information and photographs rather than proprietary source code or confidential design files.*
 
-
 ---
 
 ## Technical Areas
