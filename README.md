@@ -63,7 +63,7 @@ Developed a solar simulator producing approximately **60× the intensity of natu
 
 ---
 
-### 02 | Environmental Monitoring & IoT System
+### 02 | Horticulture Environmental Monitoring & IoT System
 
 **LED iBond A/S | Master's Thesis & Embedded Systems Development**
 
