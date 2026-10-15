@@ -1,0 +1,166 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Jayashwanth JS | Engineering Portfolio</title>
+  <style>
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: Calibri, Arial, sans-serif;
+      color: #21313b;
+      background: #f5f7f8;
+      line-height: 1.6;
+    }
+    header {
+      background: #102c3a;
+      color: white;
+      padding: 70px 8%;
+    }
+    header h1 { font-size: 2.5rem; margin: 0 0 10px; }
+    header p { max-width: 720px; color: #d2e2e7; }
+    nav { margin-top: 22px; }
+    nav a { color: #a7e4df; margin-right: 20px; }
+    main { max-width: 1100px; margin: auto; padding: 35px 20px; }
+    h2 { margin-top: 35px; }
+    .projects {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 24px;
+    }
+    article {
+      background: white;
+      border-radius: 12px;
+      overflow: hidden;
+      box-shadow: 0 4px 18px #102c3a12;
+    }
+    article img {
+      width: 100%;
+      height: 210px;
+      object-fit: cover;
+    }
+    .content { padding: 22px; }
+    .tag { color: #176d76; font-weight: bold; font-size: 0.9rem; }
+    footer { text-align: center; padding: 30px; color: #60727c; }
+    a { color: #176d76; }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Jayashwanth Jeganathan Subhashini</h1>
+  <h2>Embedded Systems & Electronics Engineering</h2>
+  <p>
+    M.Sc. Electrical Engineering, DTU.
+    Hands-on experience in embedded hardware, IoT,
+    electronic system development, testing, and troubleshooting.
+  </p>
+  <nav>
+    <a href="#projects">Projects</a>
+    <a href="#about">About</a>
+    <a href="#contact">Contact</a>
+  </nav>
+</header>
+
+<main>
+  <section id="projects">
+    <h2>Selected Engineering Projects</h2>
+    <div class="projects">
+
+      <article>
+        <img src="images/solar-simulator.jpg" alt="LED solar simulator">
+        <div class="content">
+          <div class="tag">DTU Physics</div>
+          <h3>High-Intensity Solar Simulator</h3>
+          <p>
+            Led electrical and system development of an
+            experimental LED solar simulator delivering
+            approximately 60 times natural sunlight intensity.
+          </p>
+          <p>
+            Designed PCBs, integrated power supplies and
+            commercial Zencontrol lighting hardware, and
+            performed electrical, thermal, and optical testing.
+          </p>
+        </div>
+      </article>
+
+      <article>
+        <img src="images/monitoring-system.jpg" alt="Environmental monitoring prototype">
+        <div class="content">
+          <div class="tag">LEDiBond A/S</div>
+          <h3>Environmental Monitoring System</h3>
+          <p>
+            Developed ESP32 and Raspberry Pi-based systems
+            for environmental sensor data acquisition.
+          </p>
+          <p>
+            Used C firmware, Python scripts on Linux,
+            MQTT communication, and Azure IoT connectivity.
+            Performed calibration, debugging, and validation.
+          </p>
+        </div>
+      </article>
+
+      <article>
+        <img src="images/growbot.jpg" alt="Growbot embedded system">
+        <div class="content">
+          <div class="tag">DTU Electro</div>
+          <h3>Growbot Embedded Systems</h3>
+          <p>
+            Developed, assembled, tested, and delivered
+            25 Raspberry Pi and Arduino-based educational
+            systems with sensors and actuators.
+          </p>
+          <p>
+            Worked on PCB assembly, soldering, wiring,
+            hardware bring-up, debugging, and functional testing.
+          </p>
+        </div>
+      </article>
+
+      <article>
+        <img src="images/moto-cube.jpg" alt="BLE motion tracking hardware">
+        <div class="content">
+          <div class="tag">Embedded Systems Project</div>
+          <h3>MOTO Cube</h3>
+          <p>
+            Developed a Nordic nRF52-based motion tracking
+            system integrating an IMU sensor and Bluetooth
+            Low Energy communication.
+          </p>
+          <p>
+            Worked on embedded firmware integration,
+            JTAG debugging, and functional testing.
+          </p>
+        </div>
+      </article>
+
+    </div>
+  </section>
+
+  <section id="about">
+    <h2>About Me</h2>
+    <p>
+      I am an electrical engineer with an M.Sc. from
+      the Technical University of Denmark. My work focuses
+      on practical electronic system development, embedded
+      hardware, testing, and troubleshooting.
+    </p>
+  </section>
+
+  <section id="contact">
+    <h2>Contact</h2>
+    <p>Email: j.jaayshwaanth@gmail.com</p>
+    <p>Location: Denmark</p>
+  </section>
+</main>
+
+<footer>
+  © 2026 Jayashwanth Jeganathan Subhashini
+</footer>
+
+</body>
+</html>
