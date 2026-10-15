@@ -4,8 +4,7 @@ M.Sc. Electrical Engineering | Technical University of Denmark
 
 Engineering Project Portfolio
 
-Jayashwanth Jeganathan Subhashini |
-M.Sc. Electrical Engineering | Technical University of Denmark
+Jayashwanth Jeganathan Subhashini | M.Sc. Electrical Engineering | Technical University of Denmark
 
 I am an electrical and embedded systems engineer with hands-on experience in electronic hardware development, embedded systems, IoT, system integration, testing, and troubleshooting.
 
